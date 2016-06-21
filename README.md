@@ -1,2 +1,2 @@
-# SVA_DEMO_APP_ANDROID
+# android
 Android source code of SVA Demo APP.
